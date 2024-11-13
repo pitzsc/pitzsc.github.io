@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pitzsc.dodrs.com/pitzsc.txt
